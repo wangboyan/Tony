@@ -1,3 +1,4 @@
+#二分查找法
 import random
 import math
 N = 10#数组元素个数
